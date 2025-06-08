@@ -1,0 +1,11 @@
+
+Driver Login
+user-name : manoj [Driver name]
+password  : 1234  [initialy AmbRegNum]
+
+
+admin Login
+
+user-name : admin
+password  : 1234
+
